@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/apowers313/pupt-react/compare/v1.1.2...v1.1.3) (2026-02-12)
+
+
+### Bug Fixes
+
+* fix unwrapJsx prompt processing that was breaking imports ([d45418e](https://github.com/apowers313/pupt-react/commit/d45418e642a0b062d4b14075836702d38b82783f))
+
 ## [1.1.2](https://github.com/apowers313/pupt-react/compare/v1.1.1...v1.1.2) (2026-02-11)
 
 
